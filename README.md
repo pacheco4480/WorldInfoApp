@@ -25,4 +25,4 @@ https://github.com/user-attachments/assets/0304f19d-e240-457d-9a53-7c8082b7dca5
 ## How to Run the Project 💻
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-username/WorldInfoApp.git
+   git clone https://github.com/pacheco4480/WorldInfoApp.git
